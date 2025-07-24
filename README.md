@@ -1,4 +1,3 @@
-تمام يا محمد، هنا وصف بسيط تقدر تستخدمه كـ description للـ GitHub repository بتاع مشروع الميكروسيرفيس اللي عملته:
 
 ---
 
@@ -16,6 +15,4 @@ Each service is independently deployed and registered to Eureka. Configuration f
 
 The project follows best practices for service isolation, scalability, and maintainability.
 
----
 
-تحب أظبطلك كمان ملف `README.md` كامل للريبو؟
